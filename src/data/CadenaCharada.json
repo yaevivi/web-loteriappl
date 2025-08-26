@@ -1,0 +1,881 @@
+{
+  "00": [
+    {"number": "00", "word": "DIOS", "icon": "🙏"},
+    {"number": "07", "word": "MIERDA", "icon": "💩"},
+    {"number": "01", "word": "CABALLO", "icon": "🐎"},
+    {"number": "71", "word": "RÍO", "icon": "🏞️"},
+    {"number": "42", "word": "PATO", "icon": "🦆"},
+    {"number": "18", "word": "PESCADO", "icon": "🐠"}
+  ],
+  "01": [
+    {"number": "01", "word": "CABALLO", "icon": "🐎"},
+    {"number": "11", "word": "GALLO", "icon": "🐓"},
+    {"number": "44", "word": "ZAPATOS", "icon": "👞"},
+    {"number": "66", "word": "PAREJA DE LLEGUA", "icon": "🐴🐴"},
+    {"number": "69", "word": "RELAJO", "icon": "🥰"},
+    {"number": "70", "word": "COCO", "icon": "🥥"},
+    {"number": "25", "word": "PIEDRA FINA", "icon": "💎"},
+    {"number": "36", "word": "TEATRO", "icon": "🎭"}
+  ],
+  "02": [
+    {"number": "02", "word": "MARIPOSA", "icon": "🦋"},
+    {"number": "54", "word": "FLORES", "icon": "💐"},
+    {"number": "41", "word": "LAGARTIJA", "icon": "🦎"},
+    {"number": "88", "word": "ESPEJUELOS", "icon": "😎"},
+    {"number": "94", "word": "MACHETE", "icon": "🔪"}
+  ],
+   "03": [
+    {"number": "03", "word": "MARINERO", "icon": "👨‍✈️"},
+    {"number": "23", "word": "VAPOR", "icon": "♨️"},
+    {"number": "81", "word": "HIJO", "icon": "👶"},
+    {"number": "05", "word": "MONJA", "icon": "🛐"},
+    {"number": "14", "word": "CEMENTERIO", "icon": "🪦"},
+    {"number": "52", "word": "BICICLETA", "icon": "🚲"},
+    {"number": "51", "word": "SOLDADO", "icon": "💂"}
+  ],
+  "04": [
+    {"number": "04", "word": "GATO", "icon": "🐈"},
+    {"number": "21", "word": "MAJA", "icon": "🐍"},
+    {"number": "93", "word": "REVOLUCIÓN", "icon": "✊"},
+    {"number": "48", "word": "CUCARACHA", "icon": "🪳"},
+    {"number": "10", "word": "PESCADO", "icon": "🐠"},
+    {"number": "18", "word": "PALMA", "icon": "🌴"}
+  ],
+  "05": [
+    {"number": "05", "word": "MONJA", "icon": "🛐"},
+    {"number": "25", "word": "PIEDRA FINA", "icon": "💎"},
+    {"number": "18", "word": "IGLESIA", "icon": "⛪"},
+    {"number": "00", "word": "DIOS", "icon": "🙏"},
+    {"number": "33", "word": "MADRE", "icon": "👩‍👧‍👦"}
+  ],
+  "06": [
+    {"number": "06", "word": "JICOTEA", "icon": "🐢"},
+    {"number": "51", "word": "SOLDADO", "icon": "💂"},
+    {"number": "11", "word": "GALLO", "icon": "🐓"},
+    {"number": "54", "word": "FLORES", "icon": "💐"},
+    {"number": "14", "word": "GATO FINO", "icon": "🐈✨"},
+    {"number": "59", "word": "LOCO", "icon": "🤪"},
+    {"number": "19", "word": "LOMBRIZ", "icon": "🪱"},
+    {"number": "71", "word": "RÍO", "icon": "🏞️"},
+    {"number": "37", "word": "BRUJERÍA", "icon": "🔮"},
+    {"number": "57", "word": "SAN LÁZARO", "icon": "🤔"},
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"}
+  ],
+  "07": [
+    {"number": "07", "word": "MIERDA", "icon": "💩"},
+    {"number": "02", "word": "MARIPOSA", "icon": "🦋"},
+    {"number": "63", "word": "ASESINO", "icon": "🥷"},
+    {"number": "20", "word": "GATO FINO", "icon": "🐈✨"},
+    {"number": "01", "word": "CABALLO", "icon": "🐎"},
+    {"number": "05", "word": "MONJA", "icon": "🛐"},
+    {"number": "40", "word": "CURA", "icon": "👳‍♂️"},
+    {"number": "26", "word": "ABEJA", "icon": "🐝"},
+    {"number": "42", "word": "PATO", "icon": "🦆"}
+  ],
+  "08": [
+    {"number": "08", "word": "MUERTO", "icon": "💀"},
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"},
+    {"number": "78", "word": "ATAÚD", "icon": "⚰️"},
+    {"number": "54", "word": "FLORES", "icon": "💐"},
+    {"number": "42", "word": "PATO", "icon": "🦆"},
+    {"number": "14", "word": "CEMENTERIO", "icon": "🪦"},
+    {"number": "68", "word": "CEMENTERIO", "icon": "🪦"}
+  ],
+  "09": [
+    {"number": "09", "word": "ELEFANTE", "icon": "🐘"},
+    {"number": "52", "word": "BICICLETA", "icon": "🚲"},
+    {"number": "26", "word": "ABEJA", "icon": "🐝"},
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"},
+    {"number": "29", "word": "RATÓN", "icon": "🐁"},
+    {"number": "46", "word": "GUAGUA", "icon": "🚐"}
+  ],
+  "10": [
+    {"number": "10", "word": "PESCADO", "icon": "🐠"},
+    {"number": "03", "word": "NIÑO", "icon": "👦"},
+    {"number": "18", "word": "PESCADO", "icon": "🐠"},
+    {"number": "23", "word": "BARCO", "icon": "🚢"},
+    {"number": "04", "word": "GATO", "icon": "🐈"},
+    {"number": "05", "word": "MONJA", "icon": "🛐"},
+    {"number": "71", "word": "RÍO", "icon": "🏞️"}
+  ],
+  "11": [
+    {"number": "11", "word": "GALLO", "icon": "🐓"},
+    {"number": "54", "word": "FLORES", "icon": "💐"},
+    {"number": "15", "word": "PERRO", "icon": "🐕"},
+    {"number": "38", "word": "DINERO", "icon": "💰"},
+    {"number": "56", "word": "MERENGUE", "icon": "🍥"},
+    {"number": "32", "word": "PUERCO CHIQUITO", "icon": "🐷"},
+    {"number": "73", "word": "MALETA", "icon": "💼"}
+  ],
+  "12": [
+    {"number": "12", "word": "DAMA", "icon": "🧍‍♀️"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"},
+    {"number": "04", "word": "GATO", "icon": "🐈"},
+    {"number": "50", "word": "POLICÍA", "icon": "👮"},
+    {"number": "08", "word": "MUERTO", "icon": "💀"},
+    {"number": "82", "word": "MADRE", "icon": "👩‍👧‍👦"}
+  ],
+  "13": [
+    {"number": "13", "word": "PAVO REAL", "icon": "🦚"},
+    {"number": "12", "word": "DAMA", "icon": "🧍‍♀️"},
+    {"number": "96", "word": "DESAFÍO", "icon": "🤔"},
+    {"number": "74", "word": "MILITAR", "icon": "💂‍♂️"},
+    {"number": "49", "word": "BORRACHO", "icon": "🥴"},
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"}
+  ],
+  "14": [
+    {"number": "14", "word": "GATO", "icon": "🐈"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "45", "word": "TIBURÓN", "icon": "🦈"},
+    {"number": "04", "word": "GATO", "icon": "🐈"},
+    {"number": "48", "word": "CUCARACHA", "icon": "🪳"},
+    {"number": "21", "word": "MAJA", "icon": "🐍"},
+    {"number": "96", "word": "DESAFÍO", "icon": "🤔"}
+  ],
+  "15": [
+    {"number": "15", "word": "PERRO", "icon": "🐕"},
+    {"number": "75", "word": "PERRO", "icon": "🐕🐕"},
+    {"number": "95", "word": "PERRO", "icon": "🐕"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"},
+    {"number": "43", "word": "ALACRÁN", "icon": "🦂"},
+    {"number": "17", "word": "SAN LÁZARO", "icon": "🤔"},
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "88", "word": "ESPEJUELOS", "icon": "😎"},
+    {"number": "97", "word": "MOSQUITO", "icon": "🦟"}
+  ],
+  "16": [
+    {"number": "16", "word": "TORO", "icon": "🐂"},
+    {"number": "31", "word": "VENADO", "icon": "🦌"},
+    {"number": "43", "word": "ALACRÁN", "icon": "🦂"},
+    {"number": "67", "word": "PUÑALADA", "icon": "🗡️"},
+    {"number": "19", "word": "LOMBRIZ", "icon": "🪱"}
+  ],
+  "17": [
+    {"number": "17", "word": "SAN LÁZARO", "icon": "🤔"},
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"},
+    {"number": "15", "word": "PERRO", "icon": "🐕"},
+    {"number": "75", "word": "PERRO", "icon": "🐕🐕"},
+    {"number": "95", "word": "PERRO", "icon": "🐕"},
+    {"number": "77", "word": "MULETA", "icon": "🦯"},
+    {"number": "37", "word": "BRUJERÍA", "icon": "🔮"},
+    {"number": "90", "word": "VIEJO", "icon": "👴"},
+    {"number": "13", "word": "PAVO REAL", "icon": "🦚"}
+  ],
+  "18": [
+    {"number": "18", "word": "PESCADO", "icon": "🐠"},
+    {"number": "05", "word": "MONJA", "icon": "🛐"},
+    {"number": "71", "word": "RÍO", "icon": "🏞️"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "04", "word": "GATO", "icon": "🐈"},
+    {"number": "50", "word": "POLICÍA", "icon": "👮"},
+    {"number": "59", "word": "LOCO", "icon": "🤪"},
+    {"number": "10", "word": "PESCADO", "icon": "🐠"},
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"}
+  ],
+  "19": [
+    {"number": "19", "word": "LOMBRIZ", "icon": "🪱"},
+    {"number": "26", "word": "CALLE", "icon": "🛣️"},
+    {"number": "55", "word": "PADRE", "icon": "👨‍👧‍👦"},
+    {"number": "10", "word": "PESCADO", "icon": "🐠"},
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"},
+    {"number": "56", "word": "REINA", "icon": "👸"},
+    {"number": "18", "word": "PESCADO CHIQUITO", "icon": "🐠"}
+  ],
+  "20": [
+    {"number": "20", "word": "GATO FINO", "icon": "🐈✨"},
+    {"number": "04", "word": "GATO", "icon": "🐈"},
+    {"number": "46", "word": "GUAGUA", "icon": "🚐"},
+    {"number": "14", "word": "CEMENTERIO", "icon": "🪦"},
+    {"number": "07", "word": "MIERDA", "icon": "💩"},
+    {"number": "56", "word": "REINA", "icon": "👸"},
+    {"number": "29", "word": "RATÓN", "icon": "🐁"}
+  ],
+  "21": [
+    {"number": "21", "word": "MAJÁ", "icon": "🐍"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "16", "word": "TORO", "icon": "🐂"},
+    {"number": "46", "word": "GUAGUA", "icon": "🚐"},
+    {"number": "25", "word": "PIEDRA FINA", "icon": "💎"},
+    {"number": "14", "word": "CEMENTERIO", "icon": "🪦"},
+    {"number": "04", "word": "GATO", "icon": "🐈"}
+  ],
+  "22": [
+    {"number": "22", "word": "SAPO", "icon": "🐸"},
+    {"number": "25", "word": "PIEDRA FINA", "icon": "💎"},
+    {"number": "89", "word": "AGUA", "icon": "🌊"},
+    {"number": "99", "word": "SERRUCHO", "icon": "🪚"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"}
+  ],
+  "23": [
+    {"number": "23", "word": "VAPOR", "icon": "♨️"},
+    {"number": "79", "word": "TREN", "icon": "🚆"},
+    {"number": "46", "word": "HUMO", "icon": "💨"},
+    {"number": "05", "word": "MAR", "icon": "🌊"},
+    {"number": "03", "word": "MARINERO", "icon": "👨‍✈️"}
+  ],
+  "24": [
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"},
+    {"number": "32", "word": "PUERCO", "icon": "🐖"},
+    {"number": "73", "word": "MALETA", "icon": "💼"},
+    {"number": "60", "word": "HUEVO", "icon": "🥚"},
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"},
+    {"number": "86", "word": "TIJERA", "icon": "✂️"},
+    {"number": "08", "word": "MUERTO", "icon": "💀"}
+  ],
+  "25": [
+    {"number": "25", "word": "PIEDRA FINA", "icon": "💎"},
+    {"number": "93", "word": "SORTIJA", "icon": "💍"},
+    {"number": "89", "word": "AGUA", "icon": "🌊"},
+    {"number": "34", "word": "MONO", "icon": "🐒"},
+    {"number": "79", "word": "TREN", "icon": "🚆"}
+  ],
+  "26": [
+    {"number": "26", "word": "ABEJA", "icon": "🐝"},
+    {"number": "79", "word": "COCHE", "icon": "🚗"},
+    {"number": "71", "word": "RÍO", "icon": "🏞️"},
+    {"number": "51", "word": "SOLDADO", "icon": "💂"},
+    {"number": "20", "word": "GATO", "icon": "🐈"},
+    {"number": "84", "word": "SANGRE", "icon": "🩸"},
+    {"number": "80", "word": "MÉDICO", "icon": "👨‍⚕️"},
+    {"number": "75", "word": "CINE", "icon": "🎬"}
+  ],
+  "27": [
+    {"number": "27", "word": "AVISPA", "icon": "🐝"},
+    {"number": "43", "word": "ALACRAN", "icon": "🦂"},
+    {"number": "18", "word": "PESCADO CHIQUITO", "icon": "🐠"},
+    {"number": "76", "word": "BAILARINA", "icon": "💃"},
+    {"number": "34", "word": "MONO", "icon": "🐒"},
+    {"number": "87", "word": "PLÁTANO", "icon": "🍌"}
+  ],
+  "28": [
+    {"number": "28", "word": "CHIVO", "icon": "🐐"},
+    {"number": "37", "word": "BRUJERÍA", "icon": "🔮"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "26", "word": "CALLE", "icon": "🛣️"},
+    {"number": "84", "word": "SANGRE", "icon": "🩸"},
+    {"number": "55", "word": "PADRE", "icon": "👨‍👧‍👦"},
+    {"number": "42", "word": "PATO", "icon": "🦆"}
+  ],
+  "29": [
+    {"number": "29", "word": "RATÓN", "icon": "🐁"},
+    {"number": "04", "word": "GATO", "icon": "🐈"},
+    {"number": "30", "word": "CAMARÓN", "icon": "🦐"},
+    {"number": "61", "word": "CAÑONAZO", "icon": "💥"},
+    {"number": "06", "word": "JICOTEA", "icon": "🐢"},
+    {"number": "66", "word": "PAREJA DE YEGUAS", "icon": "🐴🐴"},
+    {"number": "85", "word": "MEDICINA", "icon": "💊"}
+  ],
+  "30": [
+    {"number": "30", "word": "CAMARÓN", "icon": "🦐"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "09", "word": "DIOS", "icon": "🙏"},
+    {"number": "41", "word": "LAGARTIJA", "icon": "🦎"},
+    {"number": "28", "word": "CHIVO", "icon": "🐐"},
+    {"number": "98", "word": "PIANO", "icon": "🎹"},
+    {"number": "07", "word": "MIERDA", "icon": "💩"}
+  ],
+  "31": [
+    {"number": "31", "word": "VENADO", "icon": "🦌"},
+    {"number": "63", "word": "ASESINO", "icon": "🥷"},
+    {"number": "13", "word": "PAVO REAL", "icon": "🦚"},
+    {"number": "64", "word": "MANGO", "icon": "🥭"},
+    {"number": "66", "word": "PAREJA DE LLEGUA", "icon": "🐴🐴"}
+  ],
+  "32": [
+    {"number": "32", "word": "PUERCO CHIQUITO", "icon": "🐷"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"},
+    {"number": "14", "word": "CEMENTERIO", "icon": "🪦"},
+    {"number": "42", "word": "PATO", "icon": "🦆"},
+    {"number": "26", "word": "ABEJA", "icon": "🐝"},
+    {"number": "67", "word": "PUÑALADA", "icon": "🗡️"},
+    {"number": "97", "word": "MOSQUITO", "icon": "🦟"}
+  ],
+  "33": [
+    {"number": "33", "word": "MADRE", "icon": "👩‍👧‍👦"},
+    {"number": "26", "word": "ABEJA", "icon": "🐝"},
+    {"number": "42", "word": "PATO", "icon": "🦆"},
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"},
+    {"number": "91", "word": "LIMOSNERO", "icon": "🤔"}
+  ],
+  "34": [
+    {"number": "34", "word": "MONO", "icon": "🐒"},
+    {"number": "87", "word": "PLÁTANO", "icon": "🍌"},
+    {"number": "26", "word": "ABEJA", "icon": "🐝"},
+    {"number": "25", "word": "CASA", "icon": "🏠"},
+    {"number": "91", "word": "LIMOSNERO", "icon": "🤔"},
+    {"number": "89", "word": "AGUA", "icon": "🌊"},
+    {"number": "11", "word": "GALLO", "icon": "🐓"},
+    {"number": "97", "word": "MOSQUITO", "icon": "🦟"},
+    {"number": "16", "word": "BUEY", "icon": "🐃"}
+  ],
+  "35": [
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"},
+    {"number": "97", "word": "MOSQUITO", "icon": "🦟"},
+    {"number": "53", "word": "LUZ ELÉCTRICA", "icon": "💡"},
+    {"number": "62", "word": "MATRIMONIO", "icon": "💑"}
+  ],
+  "36": [
+    {"number": "36", "word": "CACHIMBA", "icon": "🚬"},
+    {"number": "06", "word": "JICOTEA", "icon": "🐢"},
+    {"number": "46", "word": "GUAGUA", "icon": "🚐"},
+    {"number": "76", "word": "BAILARINA", "icon": "💃"},
+    {"number": "59", "word": "LOCO", "icon": "🤪"},
+    {"number": "20", "word": "GATO", "icon": "🐈"},
+    {"number": "03", "word": "NIÑO", "icon": "👦"},
+    {"number": "81", "word": "HIJO", "icon": "👶"}
+  ],
+  "37": [
+    {"number": "37", "word": "BRUJERÍA", "icon": "🔮"},
+    {"number": "70", "word": "COCO", "icon": "🥥"},
+    {"number": "06", "word": "JICOTEA", "icon": "🐢"},
+    {"number": "71", "word": "RÍO", "icon": "🏞️"},
+    {"number": "08", "word": "MUERTO", "icon": "💀"},
+    {"number": "84", "word": "SANGRE", "icon": "🩸"},
+    {"number": "64", "word": "RELAJO", "icon": "🥰"},
+    {"number": "88", "word": "ESPEJUELOS", "icon": "😎"}
+  ],
+  "38": [
+    {"number": "38", "word": "DINERO", "icon": "💰"},
+    {"number": "12", "word": "MUJER SANTA", "icon": "🛐"},
+    {"number": "96", "word": "PERIÓDICO", "icon": "📰"},
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"},
+    {"number": "74", "word": "PAPALOTE", "icon": "🪁"},
+    {"number": "15", "word": "PERRO", "icon": "🐕"},
+    {"number": "81", "word": "HIJO", "icon": "👶"},
+    {"number": "82", "word": "LEÓN", "icon": "🦁"},
+    {"number": "68", "word": "MUERTO", "icon": "💀"}
+  ],
+   "39": [
+    {"number": "39", "word": "CONEJO", "icon": "🐇"},
+    {"number": "13", "word": "PAVO REAL", "icon": "🦚"},
+    {"number": "88", "word": "ESPEJUELOS", "icon": "😎"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "55", "word": "PADRE", "icon": "👨‍👧‍👦"},
+    {"number": "41", "word": "SANGRE", "icon": "🩸"}
+  ],
+   "40": [
+    {"number": "40", "word": "CURA", "icon": "👳‍♂️"},
+    {"number": "05", "word": "MONJA", "icon": "🛐"},
+    {"number": "25", "word": "PIEDRA FINA", "icon": "💎"},
+    {"number": "00", "word": "DIOS", "icon": "🙏"},
+    {"number": "18", "word": "PESCADO", "icon": "🐠"},
+    {"number": "33", "word": "MADRE", "icon": "👩‍👧‍👦"},
+    {"number": "36", "word": "PAJARITO", "icon": "🐦"}
+  ],
+  "41": [
+    {"number": "41", "word": "LAGARTIJA", "icon": "🦎"},
+    {"number": "23", "word": "VAPOR", "icon": "♨️"},
+    {"number": "29", "word": "RATÓN", "icon": "🐁"},
+    {"number": "85", "word": "MEDICINA", "icon": "💊"},
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"},
+    {"number": "03", "word": "NIÑO", "icon": "👦"}
+  ],
+  "42": [
+    {"number": "42", "word": "PATO", "icon": "🦆"},
+    {"number": "31", "word": "VENADO", "icon": "🦌"},
+    {"number": "56", "word": "MERENGUE", "icon": "🍥"},
+    {"number": "41", "word": "LAGARTIJA", "icon": "🦎"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"},
+    {"number": "21", "word": "MAJÁ", "icon": "🐍"},
+    {"number": "60", "word": "HUEVO", "icon": "🥚"}
+  ],
+  "43": [
+    {"number": "43", "word": "ALACRÁN", "icon": "🦂"},
+    {"number": "74", "word": "MILITAR", "icon": "💂‍♂️"},
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"},
+    {"number": "88", "word": "ESPEJUELOS", "icon": "😎"},
+    {"number": "82", "word": "PLEITO", "icon": "👊"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"},
+    {"number": "86", "word": "TIJERAS", "icon": "✂️"}
+  ],
+  "44": [
+    {"number": "44", "word": "ZAPATO", "icon": "👞"},
+    {"number": "67", "word": "PUÑALADA", "icon": "🗡️"},
+    {"number": "48", "word": "CUCARACHA", "icon": "🪳"},
+    {"number": "86", "word": "TIJERAS", "icon": "✂️"},
+    {"number": "23", "word": "VAPOR", "icon": "♨️"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"},
+    {"number": "82", "word": "MADRE", "icon": "👩‍👧‍👦"},
+    {"number": "22", "word": "SAPO", "icon": "🐸"}
+  ],
+  "45": [
+    {"number": "45", "word": "PRESIDENTE", "icon": "👔"},
+    {"number": "38", "word": "DINERO", "icon": "💰"},
+    {"number": "74", "word": "PAPALOTE", "icon": "🪁"},
+    {"number": "07", "word": "MIERDA", "icon": "💩"},
+    {"number": "44", "word": "ZAPATOS", "icon": "👞"},
+    {"number": "75", "word": "PERRO GRANDE", "icon": "🐕🐕"},
+    {"number": "39", "word": "CONEJO", "icon": "🐇"}
+  ],
+  "46": [
+    {"number": "46", "word": "GUAGUA", "icon": "🚐"},
+    {"number": "00", "word": "INODORO", "icon": "🚽"},
+    {"number": "26", "word": "CALLE", "icon": "🛣️"},
+    {"number": "72", "word": "FERROCARRIL", "icon": "🚂"},
+    {"number": "80", "word": "MÉDICO", "icon": "👨‍⚕️"},
+    {"number": "37", "word": "BRUJERÍA", "icon": "🔮"},
+    {"number": "27", "word": "AVISPA", "icon": "🐝"}
+  ],
+   "47": [
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"},
+    {"number": "48", "word": "CUCARACHA", "icon": "🪳"},
+    {"number": "04", "word": "GATO", "icon": "🐈"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"}
+  ],
+  "48": [
+    {"number": "48", "word": "CUCARACHA", "icon": "🪳"},
+    {"number": "06", "word": "JICOTEA", "icon": "🐢"},
+    {"number": "22", "word": "SAPO", "icon": "🐸"},
+    {"number": "30", "word": "CAMARÓN", "icon": "🦐"},
+    {"number": "61", "word": "CAÑONAZO", "icon": "💥"},
+    {"number": "54", "word": "FLORES", "icon": "💐"}
+  ],
+  "49": [
+    {"number": "49", "word": "BORRACHO", "icon": "🥴"},
+    {"number": "52", "word": "BICICLETA", "icon": "🚲"},
+    {"number": "06", "word": "JICOTEA", "icon": "🐢"},
+    {"number": "38", "word": "DINERO", "icon": "💰"},
+    {"number": "50", "word": "POLICÍA", "icon": "👮"},
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "12", "word": "DAMA", "icon": "🧍‍♀️"}
+  ],
+   "50": [
+    {"number": "50", "word": "POLICÍA", "icon": "👮"},
+    {"number": "58", "word": "CUCHILLO", "icon": "🔪"},
+    {"number": "43", "word": "ALACRÁN", "icon": "🦂"},
+    {"number": "41", "word": "LAGARTIJA", "icon": "🦎"},
+    {"number": "22", "word": "SAPO", "icon": "🐸"},
+    {"number": "82", "word": "LEÓN", "icon": "🦁"},
+    {"number": "94", "word": "MACHETE", "icon": "🔪"}
+  ],
+   "51": [
+    {"number": "51", "word": "SOLDADO", "icon": "💂‍♀️"},
+    {"number": "37", "word": "BRUJERÍA", "icon": "👁️"},
+    {"number": "39", "word": "CONEJO", "icon": "🐰"},
+    {"number": "95", "word": "PERRO", "icon": "🐕"},
+    {"number": "17", "word": "SAN LÁZARO", "icon": "🧓"},
+    {"number": "71", "word": "RIO", "icon": "🏞️"}
+  ],
+  "52": [
+    {"number": "52", "word": "BICICLETA", "icon": "🚲"},
+    {"number": "46", "word": "GUAGUA", "icon": "🚌"},
+    {"number": "03", "word": "NIÑO", "icon": "🧒"},
+    {"number": "01", "word": "CABALLO", "icon": "🐴"},
+    {"number": "61", "word": "CAÑONAZO", "icon": "🎆"}
+  ],
+  "53": [
+    {"number": "53", "word": "BESO", "icon": "😘"},
+    {"number": "98", "word": "ENTIERRO", "icon": "⚰️"},
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"},
+    {"number": "62", "word": "MATRIMONIO", "icon": "👩‍❤️‍👨"},
+    {"number": "45", "word": "TIBURÓN", "icon": "🦈"},
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"},
+    {"number": "14", "word": "CEMENTERIO", "icon": "⛩️"},
+    {"number": "04", "word": "GATO", "icon": "🐈"}
+  ],
+  "54": [
+    {"number": "54", "word": "FLORES", "icon": "💐"},
+    {"number": "60", "word": "HUEVO", "icon": "🥚"},
+    {"number": "84", "word": "SANGRE", "icon": "🩸"},
+    {"number": "11", "word": "GALLO", "icon": "🐓"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"}
+  ],
+  "55": [
+    {"number": "55", "word": "PADRE", "icon": "👨‍👧‍👦"},
+    {"number": "05", "word": "MONJA", "icon": "👩‍ religious_habit"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "81", "word": "HIJO", "icon": "👦"},
+    {"number": "58", "word": "CUCHILLO", "icon": "🔪"}
+  ],
+  "56": [
+    {"number": "56", "word": "MERENGUE", "icon": "🍥"},
+    {"number": "03", "word": "NIÑO", "icon": "🧒"},
+    {"number": "60", "word": "HUEVOS", "icon": "🥚🥚"},
+    {"number": "56", "word": "MERENGUE", "icon": "🍥"}
+  ],
+  "57": [
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "64", "word": "RELAJO", "icon": "🥰"},
+    {"number": "12", "word": "DAMA", "icon": "👩"},
+    {"number": "17", "word": "SAN LÁZARO", "icon": "🧓"},
+    {"number": "37", "word": "BRUJERÍA", "icon": "👁️"}
+  ],
+  "58": [
+    {"number": "58", "word": "CUCHILLO", "icon": "🔪"},
+    {"number": "67", "word": "PUÑALADA", "icon": "🗡️"},
+    {"number": "40", "word": "CURA", "icon": "🧑‍ religious_habit"},
+    {"number": "96", "word": "PUTA VIEJA", "icon": "👵"},
+    {"number": "12", "word": "MUJER SANTA", "icon": "🧕"},
+    {"number": "68", "word": "MUERTO", "icon": "🧟"},
+    {"number": "95", "word": "PERRO GRANDE", "icon": "🐕🐕"}
+  ],
+  "59": [
+    {"number": "59", "word": "LOCO", "icon": "🤪"},
+    {"number": "20", "word": "GATO", "icon": "🐈🐈"},
+    {"number": "56", "word": "REINA", "icon": "👸"},
+    {"number": "93", "word": "SORTIJA", "icon": "💍"},
+    {"number": "73", "word": "MALETA", "icon": "💼"},
+    {"number": "77", "word": "MULETA", "icon": "🦯"}
+  ],
+  "60": [
+    {"number": "60", "word": "HUEVO", "icon": "🥚"},
+    {"number": "54", "word": "FLORES", "icon": "💐"},
+    {"number": "37", "word": "BRUJERÍA", "icon": "👁️"},
+    {"number": "56", "word": "MERENGUE", "icon": "🍥"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"}
+  ],
+  "61": [
+    {"number": "61", "word": "CAÑONAZO", "icon": "🎆"},
+    {"number": "68", "word": "MUERTO", "icon": "🧟"},
+    {"number": "70", "word": "COCO", "icon": "🥥"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "55", "word": "PADRE", "icon": "👨‍👧‍👦"},
+    {"number": "95", "word": "PERRO GRANDE", "icon": "🐕🐕"},
+    {"number": "91", "word": "LIMONERO", "icon": "🍋"}
+  ],
+  "62": [
+    {"number": "62", "word": "MATRIMONIO", "icon": "👩‍❤️‍👨"},
+    {"number": "59", "word": "LOCO", "icon": "🤪"},
+    {"number": "34", "word": "MONO", "icon": "🐒"},
+    {"number": "00", "word": "INODORO", "icon": "🚽"},
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "53", "word": "BESO", "icon": "😘"},
+    {"number": "98", "word": "PIANO", "icon": "🎹🎹"},
+    {"number": "66", "word": "PAREJA DE YEGUAS", "icon": "🐎🐎"}
+  ],
+  "63": [
+    {"number": "63", "word": "ASESINO", "icon": "🔪"},
+    {"number": "84", "word": "SANGRE", "icon": "🩸"},
+    {"number": "08", "word": "MUERTO", "icon": "💀"},
+    {"number": "68", "word": "CEMENTERIO", "icon": "⛩️"},
+    {"number": "64", "word": "RELAJO", "icon": "🥰"},
+    {"number": "67", "word": "PUÑALADA", "icon": "🗡️"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"}
+  ],
+  "64": [
+    {"number": "64", "word": "RELAJO", "icon": "🥰"},
+    {"number": "30", "word": "CAMARÓN", "icon": "🦐"},
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "69", "word": "RELAJO", "icon": "🥰"},
+    {"number": "28", "word": "CHIVO", "icon": "🐐"}
+  ],
+  "65": [
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"},
+    {"number": "18", "word": "PESCADO", "icon": "🐟"},
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"},
+    {"number": "32", "word": "PUERCO CHIQUITO", "icon": "🐷"},
+    {"number": "60", "word": "HUEVO", "icon": "🥚"}
+  ],
+  "66": [
+    {"number": "66", "word": "PAREJA DE YEGUAS", "icon": "🐎🐎"},
+    {"number": "01", "word": "CABALLO", "icon": "🐴"},
+    {"number": "62", "word": "MATRIMONIO", "icon": "👩‍❤️‍👨"},
+    {"number": "58", "word": "CUCHILLO", "icon": "🔪"}
+  ],
+  "67": [
+    {"number": "67", "word": "PUÑALADA", "icon": "🗡️"},
+    {"number": "40", "word": "CURA", "icon": "🧑‍ religious_habit"},
+    {"number": "58", "word": "CUCHILLO", "icon": "🔪"},
+    {"number": "53", "word": "BESO", "icon": "😘"},
+    {"number": "63", "word": "ASESINO", "icon": "🔪"}
+  ],
+  "68": [
+    {"number": "68", "word": "CEMENTERIO", "icon": "⛩️"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"},
+    {"number": "08", "word": "MUERTO", "icon": "💀"},
+    {"number": "64", "word": "RELAJO", "icon": "🥰"},
+    {"number": "54", "word": "FLORES", "icon": "💐"},
+    {"number": "38", "word": "DINERO", "icon": "💸"},
+    {"number": "16", "word": "TORO", "icon": "🐂"}
+  ],
+  "69": [
+    {"number": "69", "word": "RELAJO", "icon": "🥰"},
+    {"number": "89", "word": "AGUA", "icon": "🌊"},
+    {"number": "28", "word": "CHIVO", "icon": "🐐"},
+    {"number": "30", "word": "CAMARÓN", "icon": "🦐"},
+    {"number": "66", "word": "PAREJA DE YEGUAS", "icon": "🐎🐎"},
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "56", "word": "MERENGUE", "icon": "🍥"}
+  ],
+  "70": [
+    {"number": "70", "word": "COCO", "icon": "🥥"},
+    {"number": "37", "word": "BRUJERÍA", "icon": "👁️"},
+    {"number": "18", "word": "PESCADO CHIQUITO", "icon": "🐟"},
+    {"number": "64", "word": "RELAJO", "icon": "🥰"},
+    {"number": "54", "word": "FLORES", "icon": "💐"},
+    {"number": "50", "word": "POLICÍA", "icon": "👮"},
+    {"number": "92", "word": "AVIÓN", "icon": "✈️"},
+    {"number": "38", "word": "DINERO", "icon": "💸"}
+  ],
+  "71": [
+    {"number": "71", "word": "RIO", "icon": "🏞️"},
+    {"number": "89", "word": "AGUA", "icon": "🌊"},
+    {"number": "64", "word": "RELAJO", "icon": "🥰"},
+    {"number": "36", "word": "CACHIMBA", "icon": " Pipes"},
+    {"number": "18", "word": "PESCADO", "icon": "🐟"},
+    {"number": "10", "word": "PESCADO CHIQUITO", "icon": "🐟"},
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"},
+    {"number": "06", "word": "JICOTEA", "icon": "🐢"},
+    {"number": "59", "word": "LOCO", "icon": "🤪"}
+  ],
+  "72": [
+    {"number": "72", "word": "FERROCARRIL", "icon": "🚂"},
+    {"number": "79", "word": "AHORCADO", "icon": "☠️"},
+    {"number": "46", "word": "GUAGUA", "icon": "🚌"},
+    {"number": "45", "word": "PRESIDENTE", "icon": "👔"},
+    {"number": "90", "word": "VIEJO", "icon": "👴"},
+    {"number": "67", "word": "PUÑALADA", "icon": "🗡️"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"}
+  ],
+  "73": [
+    {"number": "73", "word": "MALETA", "icon": "💼"},
+    {"number": "03", "word": "NIÑO", "icon": "🧒"},
+    {"number": "12", "word": "DAMA", "icon": "👩"},
+    {"number": "17", "word": "SAN LÁZARO", "icon": "🧓"},
+    {"number": "90", "word": "VIEJO", "icon": "👴"},
+    {"number": "46", "word": "GUAGUA", "icon": "🚌"},
+    {"number": "38", "word": "DINERO", "icon": "💸"}
+  ],
+  "74": [
+    {"number": "74", "word": "PAPALOTE", "icon": "🪁"},
+    {"number": "03", "word": "NIÑO", "icon": "🧒"},
+    {"number": "13", "word": "PAVO REAL", "icon": "🦚"},
+    {"number": "14", "word": "GATO GRANDE", "icon": "🐈🐈"},
+    {"number": "52", "word": "BICICLETA", "icon": "🚲"},
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "75", "word": "CORBATA", "icon": "👔"},
+    {"number": "22", "word": "SAPO", "icon": "🐸"},
+    {"number": "93", "word": "REVOLUCIÓN", "icon": "💥"}
+  ],
+  "75": [
+    {"number": "75", "word": "PERRO GRANDE", "icon": "🐕🐕"},
+    {"number": "17", "word": "SAN LÁZARO", "icon": "🧓"},
+    {"number": "45", "word": "PRESIDENTE", "icon": "👔"},
+    {"number": "15", "word": "PERRO CHIQUITO", "icon": "🐕"},
+    {"number": "43", "word": "ALACRÁN", "icon": "🦂"}
+  ],
+  "76": [
+    {"number": "76", "word": "BAILARINA", "icon": "💃"},
+    {"number": "22", "word": "SAPO", "icon": "🐸"},
+    {"number": "39", "word": "CONEJO", "icon": "🐰"},
+    {"number": "46", "word": "GUAGUA", "icon": "🚌"},
+    {"number": "55", "word": "PADRE", "icon": "👨‍👧‍👦"}
+  ],
+  "77": [
+    {"number": "77", "word": "MULETA", "icon": "🦯"},
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "17", "word": "SAN LÁZARO", "icon": "🧓"},
+    {"number": "97", "word": "MOSQUITO", "icon": "🦟"},
+    {"number": "61", "word": "CAÑONAZO", "icon": "🎆"},
+    {"number": "19", "word": "LOMBRIZ", "icon": "🐛"},
+    {"number": "15", "word": "PERRO", "icon": "🐕"}
+  ],
+  "78": [
+    {"number": "78", "word": "ATAÚD", "icon": "⚰️"},
+    {"number": "08", "word": "MUERTO", "icon": "💀"},
+    {"number": "64", "word": "RELAJO", "icon": "🥰"},
+    {"number": "14", "word": "CEMENTERIO", "icon": "⛩️"},
+    {"number": "68", "word": "CEMENTERIO", "icon": "⛩️"},
+    {"number": "98", "word": "ENTIERRO", "icon": "⚰️"},
+    {"number": "96", "word": "DESAFÍO", "icon": "🚧"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"}
+  ],
+  "79": [
+    {"number": "79", "word": "AHORCADO", "icon": "☠️"},
+    {"number": "08", "word": "MUERTO", "icon": "💀"},
+    {"number": "24", "word": "FUNERARIA", "icon": "⚰️"},
+    {"number": "68", "word": "CEMENTERIO", "icon": "⛩️"},
+    {"number": "17", "word": "ÁRBOL", "icon": "🌳"}
+  ],
+  "80": [
+    {"number": "80", "word": "MÉDICO", "icon": "🧑‍⚕️"},
+    {"number": "26", "word": "MEDICINA", "icon": "💊"},
+    {"number": "61", "word": "ENFERMEDAD", "icon": "🤒"},
+    {"number": "67", "word": "HOSPITAL", "icon": "🏥"}
+  ],
+  "81": [
+    {"number": "81", "word": "HIJO", "icon": "👦"},
+    {"number": "82", "word": "LEÓN", "icon": "🦁"},
+    {"number": "55", "word": "CANGREJO", "icon": "🦀"},
+    {"number": "76", "word": "BAILARINA", "icon": "💃"},
+    {"number": "03", "word": "NIÑO", "icon": "🧒"},
+    {"number": "05", "word": "MONJA", "icon": "👩‍ religious_habit"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"}
+  ],
+  "82": [
+    {"number": "82", "word": "LEÓN", "icon": "🦁"},
+    {"number": "49", "word": "BORRACHO", "icon": "🍺"},
+    {"number": "11", "word": "GALLO", "icon": "🐓"},
+    {"number": "38", "word": "DINERO", "icon": "💸"},
+    {"number": "63", "word": "ASESINO", "icon": "🔪"},
+    {"number": "21", "word": "MAJÁ", "icon": "🐍"},
+    {"number": "26", "word": "ABEJA", "icon": "🐝"}
+  ],
+  "83": [
+    {"number": "83", "word": "PLEITO", "icon": "🥊"},
+    {"number": "64", "word": "RELAJO", "icon": "🥰"},
+    {"number": "08", "word": "MUERTO", "icon": "💀"},
+    {"number": "79", "word": "TREN", "icon": "🚂"},
+    {"number": "67", "word": "PUÑALADA", "icon": "🗡️"},
+    {"number": "82", "word": "MADRE", "icon": "👩‍👧‍👦"},
+    {"number": "40", "word": "CURA", "icon": "🧑‍ religious_habit"},
+    {"number": "42", "word": "PATO", "icon": "🦆"},
+    {"number": "22", "word": "SAPO", "icon": "🐸"}
+  ],
+  "84": [
+    {"number": "84", "word": "SANGRE", "icon": "🩸"},
+    {"number": "38", "word": "DINERO", "icon": "💸"},
+    {"number": "86", "word": "TIJERAS", "icon": "✂️"},
+    {"number": "40", "word": "CURA", "icon": "🧑‍ religious_habit"},
+    {"number": "47", "word": "PÁJARO", "icon": "🐦"},
+    {"number": "58", "word": "CUCHILLO", "icon": "🔪"},
+    {"number": "25", "word": "PIEDRA FINA", "icon": "💎"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"}
+  ],
+  "85": [
+    {"number": "85", "word": "AVIÓN", "icon": "✈️"},
+    {"number": "73", "word": "MALETA", "icon": "💼"},
+    {"number": "90", "word": "VIEJO", "icon": "👴"},
+    {"number": "94", "word": "FLORES", "icon": "💐"},
+    {"number": "28", "word": "CHIVO", "icon": "🐐"},
+    {"number": "77", "word": "MULETA", "icon": "🦯"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"}
+  ],
+  "86": [
+    {"number": "86", "word": "TIJERA", "icon": "✂️"},
+    {"number": "05", "word": "MONJA", "icon": "👩‍ religious_habit"},
+    {"number": "25", "word": "CASA", "icon": "🏡"},
+    {"number": "40", "word": "CURA", "icon": "🧑‍ religious_habit"},
+    {"number": "73", "word": "MALETA", "icon": "💼"},
+    {"number": "74", "word": "PAPALOTE", "icon": "🪁"},
+    {"number": "84", "word": "SANGRE", "icon": "🩸"}
+  ],
+  "87": [
+    {"number": "87", "word": "PLÁTANO", "icon": "🍌"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "34", "word": "MONO", "icon": "🐒"},
+    {"number": "97", "word": "MOSQUITO", "icon": "🦟"},
+    {"number": "41", "word": "LAGARTIJA", "icon": "🦎"},
+    {"number": "66", "word": "PAREJA DE LLEGUA", "icon": "🐎🐎"}
+  ],
+  "88": [
+    {"number": "88", "word": "ESPEJUELOS", "icon": "👀"},
+    {"number": "25", "word": "CASA", "icon": "🏡"},
+    {"number": "62", "word": "MATRIMONIO", "icon": "👩‍❤️‍👨"},
+    {"number": "71", "word": "RÍO", "icon": "🏞️"},
+    {"number": "90", "word": "VIEJO", "icon": "👴"},
+    {"number": "98", "word": "PIANO", "icon": "🎹🎹"},
+    {"number": "09", "word": "ELEFANTE", "icon": "🐘"}
+  ],
+  "89": [
+    {"number": "89", "word": "AGUA", "icon": "💧"},
+    {"number": "50", "word": "POLICÍA", "icon": "👮"},
+    {"number": "64", "word": "MANGO", "icon": "🥭"},
+    {"number": "99", "word": "SERRUCHO", "icon": "鋸"},
+    {"number": "71", "word": "RÍO", "icon": "🏞️"},
+    {"number": "02", "word": "MARIPOSA", "icon": "🦋"},
+    {"number": "21", "word": "MAJÁ", "icon": "🐍"},
+    {"number": "38", "word": "DINERO", "icon": "💸"},
+    {"number": "05", "word": "MONJA", "icon": "👩‍ religious_habit"}
+  ],
+  "90": [
+    {"number": "90", "word": "VIEJO", "icon": "👴"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"},
+    {"number": "88", "word": "ESPEJUELOS", "icon": "👀"},
+    {"number": "93", "word": "SORTIJA", "icon": "💍"},
+    {"number": "25", "word": "PIEDRA FINA", "icon": "💎"},
+    {"number": "59", "word": "LOCO", "icon": "🤪"},
+    {"number": "77", "word": "MULETA", "icon": "🦯"},
+    {"number": "17", "word": "SAN LÁZARO", "icon": "🧓"},
+    {"number": "97", "word": "MOSQUITO", "icon": "🦟"}
+  ],
+  "91": [
+    {"number": "91", "word": "LIMOSNERO", "icon": "🚶"},
+    {"number": "02", "word": "MARIPOSA", "icon": "🦋"},
+    {"number": "21", "word": "MAJÁ", "icon": "🐍"},
+    {"number": "38", "word": "DINERO", "icon": "💸"},
+    {"number": "44", "word": "ZAPATO", "icon": "👞"},
+    {"number": "65", "word": "COMIDA", "icon": "🍜"},
+    {"number": "54", "word": "FLORES", "icon": "💐"}
+  ],
+  "92": [
+    {"number": "92", "word": "AVIÓN", "icon": "✈️"},
+    {"number": "73", "word": "MALETA", "icon": "💼"},
+    {"number": "32", "word": "PUERCO CHIQUITO", "icon": "🐷"},
+    {"number": "12", "word": "VIAJE", "icon": "✈️"},
+    {"number": "28", "word": "PILOTO", "icon": "👨‍✈️"}
+  ],
+  "93": [
+    {"number": "93", "word": "REVOLUCIÓN", "icon": "💥"},
+    {"number": "82", "word": "LEÓN", "icon": "🦁"},
+    {"number": "90", "word": "VIEJO", "icon": "👴"},
+    {"number": "77", "word": "MULETAS", "icon": "🦯"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"},
+    {"number": "25", "word": "PIEDRA FINA", "icon": "💎"},
+    {"number": "09", "word": "ELEFANTE", "icon": "🐘"},
+    {"number": "27", "word": "AVISPA", "icon": "🐝"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"}
+  ],
+  "94": [
+    {"number": "94", "word": "MACHETE", "icon": "🔪"},
+    {"number": "41", "word": "LAGARTIJA", "icon": "🦎"},
+    {"number": "11", "word": "GALLO", "icon": "🐓"},
+    {"number": "25", "word": "CASA", "icon": "🏡"},
+    {"number": "36", "word": "CACHIMBA", "icon": " Pipes"},
+    {"number": "02", "word": "MARIPOSA", "icon": "🦋"},
+    {"number": "35", "word": "ARAÑA", "icon": "🕷️"}
+  ],
+  "95": [
+    {"number": "95", "word": "PERRO", "icon": "🐕"},
+    {"number": "88", "word": "ESPEJUELOS", "icon": "👀"},
+    {"number": "43", "word": "ALACRÁN", "icon": "🦂"},
+    {"number": "17", "word": "SAN LÁZARO", "icon": "🧓"},
+    {"number": "57", "word": "CAMA", "icon": "🛏️"},
+    {"number": "84", "word": "SANGRE", "icon": "🩸"},
+    {"number": "23", "word": "VAPOR", "icon": "♨️"}
+  ],
+  "96": [
+    {"number": "96", "word": "PUTA VIEJA", "icon": "👵"},
+    {"number": "69", "word": "RELAJO", "icon": "😭"},
+    {"number": "66", "word": "PAREJA DE LLEGUA", "icon": "🐎🐎"},
+    {"number": "74", "word": "PAPALOTE", "icon": "🪁"},
+    {"number": "44", "word": "ZAPATOS", "icon": "👞"},
+    {"number": "40", "word": "CURA", "icon": "🧑‍ religious_habit"},
+    {"number": "39", "word": "CONEJO", "icon": "🐰"}
+  ],
+  "97": [
+    {"number": "97", "word": "MOSQUITO", "icon": "🦟"},
+    {"number": "40", "word": "CURA", "icon": "🧑‍ religious_habit"},
+    {"number": "84", "word": "SANGRE", "icon": "🩸"},
+    {"number": "26", "word": "ABEJA", "icon": "🐝"},
+    {"number": "12", "word": "DAMA", "icon": "👩"},
+    {"number": "71", "word": "RIO", "icon": "🏞️"},
+    {"number": "43", "word": "ALACRÁN", "icon": "🦂"}
+  ],
+  "98": [
+    {"number": "98", "word": "ENTIERRO", "icon": "⚰️"},
+    {"number": "29", "word": "RATÓN", "icon": "🐀"},
+    {"number": "32", "word": "PUERCO CHIQUITO", "icon": "🐷"},
+    {"number": "14", "word": "GATO", "icon": "🐈"},
+    {"number": "40", "word": "CURA", "icon": "🧑‍ religious_habit"},
+    {"number": "68", "word": "CEMENTERIO", "icon": "⛩️"},
+    {"number": "16", "word": "TORO", "icon": "🐂"},
+    {"number": "08", "word": "MUERTO", "icon": "💀"}
+  ],
+  "99": [
+    {"number": "99", "word": "SERRUCHO", "icon": "🔪"},
+    {"number": "19", "word": "LOMBRIZ", "icon": "🐛"},
+    {"number": "24", "word": "PALOMA", "icon": "🕊️"},
+    {"number": "29", "word": "RATÓN", "icon": "🐀"},
+    {"number": "83", "word": "TRAGEDIA", "icon": "😭"},
+    {"number": "73", "word": "MALETA", "icon": "💼"}
+  ]
+}

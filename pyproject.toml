@@ -1,0 +1,54 @@
+[project]
+name = "Loteria-Prediccion"
+version = "0.6.4"
+description = "Proyecto de Predicción de Loterías Florida, Georgia, New York"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Yosbel Alba Estrada", email = "khloealba932@gmail.com" }
+]
+dependencies = [
+  "flet==0.28.2",
+  "requests",
+  "beautifulsoup4"
+  
+]
+
+[tool.flet]
+org = "yae.ppl"
+product = "Loteria-Predicción"
+company = "PPL"
+copyright = "Copyright (C) 2025 by Flet"
+
+[tool.flet.app]
+path = "src"
+
+[tool.uv]
+dev-dependencies = [
+    "flet[all]==0.28.2",
+]
+
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.group.dev.dependencies]
+flet = {extras = ["all"], version = "0.28.2"}
+
+
+[tool.flet.assets]
+includes = [
+  "src/data/sorteos_unificados_con_fijos.json",
+  "src/data/predicciones_2025_2026.json",
+  "src/data/charada.json",
+  "src/data/CharadaPalabra.json",
+  "src/data/CadenaCharada.json",
+  "src/icons/*.png",
+  "src/img-temp/*.jpg",
+  "src/data/adivinanzas.json",
+  "src/data/miami_fla.json",
+  "src/data/numeros_suerte.json",
+  "src/data/coti_chiquita.json",
+  "src/data/los_pasos.json",
+  "src/data/otras_adivinanzas.json",
+  "src/data/pronostico.json"
+]
