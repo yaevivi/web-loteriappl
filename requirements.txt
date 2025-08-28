@@ -1,3 +1,4 @@
 flet
 requests
 beautifulsoup4
+uvicorn
