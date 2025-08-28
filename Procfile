@@ -1,1 +1,1 @@
-web: flet run src/main.py --port $PORT --host 0.0.0.0
+web: flet run src/main.py --web --port $PORT --directory src
