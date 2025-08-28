@@ -1,4 +1,5 @@
-web: cd src && flet run main.py --web --port $PORT --host 0.0.0.0
+web: cd src && flet publish main.py --release --web-renderer html
+
 
 
 
