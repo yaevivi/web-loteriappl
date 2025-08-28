@@ -526,4 +526,4 @@ def main(page: ft.Page):
     page.on_route_change = route_change
     page.go("/")
 
-ft.app(target=main)
+ft.app(target=main, view=ft.WEB_BROWSER, port=int(os.environ.get("PORT", 8080)))
